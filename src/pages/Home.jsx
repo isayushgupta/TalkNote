@@ -2,7 +2,7 @@ import React from 'react'
 import Hero from '../sections/Hero'
 import Features from '../sections/features'
 
-const Dashboard = () => {
+const Home = () => {
   return (
     <div>
         <Hero/>
@@ -11,4 +11,4 @@ const Dashboard = () => {
   )
 }
 
-export default Dashboard
+export default Home
